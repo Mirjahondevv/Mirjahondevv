@@ -50,6 +50,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/shukurali-rezamonov/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/Mirjahon-Rabbiev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rabbievmirjaxon@gmail.com)](mailto:rabbievmirjaxon@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mee_dior)](https://t.me/mee_dior)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Rabbiev_M)](https://t.me/Rabbiev_M)
