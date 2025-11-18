@@ -17,7 +17,7 @@
 
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&theme=tokyonight_duo&hide_border=true)](https://github.com/Mirjahondevv/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mirjahondevv&theme=tokyonight_duo&hide_border=true)](https://github.com/Mirjahondevv/)
 
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
@@ -50,6 +50,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/Mirjahon-Rabbiev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/mirjahon-rabbiev/www.linkedin.com/in//)](https://www.linkedin.com/in/Mirjahon-Rabbiev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rabbievmirjaxon@gmail.com)](mailto:rabbievmirjaxon@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Rabbiev_M)](https://t.me/Rabbiev_M)
