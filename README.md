@@ -7,7 +7,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirjahondevv&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirjahondevv&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirjahondevv&theme=github_dark&show_icons=true)](https://github.com/Mirjahondevv/) 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShukuraliProgrammer&theme=github_dark&layout=compact)](https://wakatime.com/@Mirjahondevv)
 
 
