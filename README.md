@@ -8,12 +8,12 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirjahondevv&theme=github_dark" alt="info">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirjahondevv&theme=github_dark&show_icons=true)](https://github.com/Mirjahondevv/) 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MirjahonProgrammer&theme=github_dark&layout=compact)](https://wakatime.com/@Mirjahondevv)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MirjahondevvProgrammer&theme=github_dark&layout=compact)](https://wakatime.com/@Mirjahondevv)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/Mirjahondevv/)
+[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=Mirjahondevv&theme=github_dark&show_icons=true)](https://github.com/Mirjahondevv/)
 
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
@@ -50,6 +50,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/mirjahon-rabbiev/www.linkedin.com/in//)](https://www.linkedin.com/in/Mirjahon-Rabbiev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/mirjahon-rabbiev/www.linkedin.com/in/mirjahon-rabbiev/)](https://www.linkedin.com/in/Mirjahon-Rabbiev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rabbievmirjaxon@gmail.com)](mailto:rabbievmirjaxon@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Rabbiev_M)](https://t.me/Rabbiev_M)
